@@ -2,7 +2,7 @@
 
 **Materia:** Programación sobre Redes (3.1.1) · IFTS29
 **Práctica Formativa Obligatoria 1** · Ciclo 2026
-**Autor:** _(completar nombre)_
+**Autor:** Leandro Paryszewski
 **Fecha:** 20/09/2026
 
 ---
