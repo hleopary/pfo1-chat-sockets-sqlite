@@ -1,5 +1,7 @@
 # PFO 1 - Chat básico cliente-servidor con sockets y SQLite
 
+**Repositorio (entrega):** https://github.com/hleopary/pfo1-chat-sockets-sqlite
+
 **Materia:** Programación sobre Redes (3.1.1) · IFTS29
 **Práctica Formativa Obligatoria 1** · Ciclo 2026
 **Autor:** Leandro Paryszewski
